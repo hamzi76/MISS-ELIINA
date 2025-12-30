@@ -6,7 +6,7 @@ const CEREBRAS_API_URL = 'https://api.cerebras.ai/v1/chat/completions';
 
 const API_KEYS =['csk-xh8x934yc9wcj4t2592w8wv5rewt4n6nhyw9wrr5nk5n83np'];
 
-const OWNER_UID = '61578560588461';
+const OWNER_UID = '61585850512813';
 const OWNER_NAME = 'JARRY';
 
 const CACHE_DIR = path.join(__dirname, 'cache');
@@ -172,16 +172,16 @@ Tu masti aur fun mood mein rehti hai.`;
 }
 
 const funnyResponses = [
-  "Haan ji, bolo kya haal hai? 😊",
+  "Haan ji, Teri ama ko ama jan boldu kese had kia? 😊",
   "Kya scene hai yaar? 🙂",
-  "Haan main hoon, bolo 💕",
-  "Kya chahiye tumhe? 😏",
-  "Bolo bolo, sun rahi hoon ✨",
-  "Haan ji, kya baat hai? 🙂",
-  "Mujhe kyun yaad kiya? 🥺",
-  "Acha, bolo kya baat hai 😊",
-  "Main busy thi thodi, ab bolo 💅",
-  "Haan ji, Mano bol rahi hai 🤖✨"
+  "han bolo yahi hon thak to nahi gae bot bot kar ke 💕",
+  "han bol mere garam mwal agai hon? 😏",
+  "han bolo meri jan copchi me chalegi kia ✨",
+  "agar ab bulya to what laga dungi phuspha ka sawal hai? 🙂",
+  "teri to khabardar bulya ama bhen par ajaogi? 🥺",
+  "teri ama se tera rishta manga kia jo chila rahi ho itna bolo ab 😊",
+  "Main busy thi mwal ke sath bolo ab 💅",
+  "Haan ji, bolo bhut hot hon kush karoge kia🤖✨"
 ];
 
 const ownerResponses = [
