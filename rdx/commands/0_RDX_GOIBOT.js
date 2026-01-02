@@ -172,16 +172,16 @@ Tu masti aur fun mood mein rehti hai.`;
 }
 
 const funnyResponses = [
-  "Haan ji, Teri ama ko ama jan boldu kese had kia? 😊",
-  "Kya scene hai yaar? 🙂",
-  "han bolo yahi hon thak to nahi gae bot bot kar ke 💕",
-  "han bol mere garam mwal agai hon? 😏",
-  "han bolo meri jan copchi me chalegi kia ✨",
-  "agar ab bulya to what laga dungi phuspha ka sawal hai? 🙂",
-  "teri to khabardar bulya ama bhen par ajaogi? 🥺",
-  "teri ama se tera rishta manga kia jo chila rahi ho itna bolo ab 😊",
-  "Main busy thi mwal ke sath bolo ab 💅",
-  "Haan ji, bolo bhut hot hon kush karoge kia🤖✨"
+  "Bar bar Distrube na karo me apni janu ke sath busy hon😊",
+  "Main gareebon se bate nahi karti? 🙂",
+  "Bar bar bula kar gali sunega kia  💕",
+  "Teri ma ki bindiya? 😏",
+  "Tum Na Single Hi Maroge ✨",
+  "Tujhe Apna Bejjati Karne Ka Saukh hai? 🙂",
+  "Kal Haveli Pe Mil Jara Tu 😈? 🥺"'
+  "Aagye Salle Kabab Me Haddi 😏 😊",
+  "Me Aap ki mummy ji ko btaou ga Aap Facebook use karty ho 💅",
+  "hayee main mar jye teri masoom shaqal py 😂 tuzy Chapple se kutne ka mn ho raha hai🤣👠🤖✨"
 ];
 
 const ownerResponses = [
