@@ -172,18 +172,17 @@ Tu masti aur fun mood mein rehti hai.`;
 }
 
 const funnyResponses = [
-  "Bar bar Distrube na karo me apni janu ke sath busy hon😊",
+   "Haan ji, Bar bar distrube na kar me janu ke sath busy hon? 😊",
   "Main gareebon se bate nahi karti? 🙂",
-  "Bar bar bula kar gali sunega kia  💕",
-  "Teri ma ki bindiya? 😏",
-  "Tum Na Single Hi Maroge ✨",
-  "Tujhe Apna Bejjati Karne Ka Saukh hai? 🙂",
-  "Kal Haveli Pe Mil Jara Tu 😈? 🥺"'
-  "Aagye Salle Kabab Me Haddi 😏 😊",
-  "Me Aap ki mummy ji ko btaou ga Aap Facebook use karty ho 💅",
-  "hayee main mar jye teri masoom shaqal py 😂 tuzy Chapple se kutne ka mn ho raha hai🤣👠🤖✨"
+  "Gali suna hai kia 💕",
+  "Teri mummmy ki bindiya? 😏",
+  "Bolo bolo, tum na single e maroge dekhna ✨",
+  "Haan ji, tujhy apni bejati karwane ka shoq hai? 🙂",
+  "Teri to ruk bhagna mat ab? 🥺",
+  "Acha, Bol bhi de koe nahi dekh raha  😊",
+  "Kal havelii par, mil jara 💅",
+  "Haan ji, Agae sale kabab me hadi 🤖✨"
 ];
-
 const ownerResponses = [
   "Ji Boss Jarry! 🫡 Aap ka hukam sir aankhon par!",
   "Assalamualaikum Jarry my boss! 💕 Kya hukam hai aapka?",
